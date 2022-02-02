@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1 class="subtitle has-text-centered">Bucket List:</h1>
+    <h1 class="subtitle has-text-centered">Everyday List:</h1>
     <hr />
     <div class="field has-addons">
       <div class="control is-expanded">
@@ -103,6 +103,7 @@ background-size: cover;
 
 .subtitle{
   color: aliceblue;
+  font-family: fantasy;
 }
 
 /* body{
